@@ -1,7 +1,9 @@
 {
   "AccountName": "csndd84772",
-  "AccountPassword": "chengyu4569",
-  "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5OTE4NTgzNjQwOSIsICJhdWQiOiBbICJjbGllbnQiLCAid2ViIiwgInJlbmV3IiwgImRlcml2ZSIgXSwgImV4cCI6IDE3MTEyMzk2NzUsICJuYmYiOiAxNzAwMDM2ODk3LCAiaWF0IjogMTcwODY3Njg5NywgImp0aSI6ICIwRUVCXzIzRkVENzhEXzMxRTI3IiwgIm9hdCI6IDE3MDg2NzY4OTcsICJwZXIiOiAwLCAiaXBfc3ViamVjdCI6ICI1Mi4yMzguMjguMTc4IiwgImlwX2NvbmZpcm1lciI6ICI1Mi4yMzguMjguMTc4IiB9.CzMK20-tS9AZVa1ptqPRIk3i3yZnD_NwohNMaRhGQJTSuW6VTjpBdL-xXPbuozAJJSI3ZqsDlex8yo-uRIuQBA",
+  "AccountPassword": "7iEMIo9pVcahuJ6AYtuYYA==",
+  "RefreshToken": "a9p/D1dCcp3LzkyaMYwlSMwxxqF9d1jSqlmTRDFs9+BJjv3Z7rHxpeJCw+dgEc3q0xDrcw1bIhNpRnQhJhR40QPgY5y0egqhcjnxQwacUsX+n4i+xogtCks79FrLXILZjft60eX6Emvn/uqEoWV8Mln6QJNtFGSfsVblc3qJ7xg6pxI2CfIzc0rlXLc1f+Ne7yAZTdiVZ9RjtvMChvNCxGsUI0OuiMCLEXd1+JFkxQrA61IM6k8XprXGKT+1gYrJ6zaMMWixKiTlv4mHl7vY9udhc5mzsZ+iNAbrpjIaZ00ez061JctceD3/lbKR2DIw6Iq0fnZS7sBWc7Vg7OuKtGMuAjo0z1R8768J6+FDNGcdWTCe7yLyuHQJxtaOUiPxDqGAifTqefuPx2/KaqHwuM8dv1yDGPA2SDjNwdF+W0XqtJPy1K562Jah2V6ERf6fGIDg+Q76ODX2KRrOxQ9DiEVZ8L1FAx8W63amoxs+ALNBfRpcos6ZH/++zOG02x9lHSmqKr6E3QDJRJYPgbTHz5rOMCFWNYH+3JbodZITbYk3DMcnAy3syrbFHxsjik+SWRTh/AmNY2KN6ujW9pk+KiIhYWu/JJAZrXfsf64HmndwlWfI5lGaWjlCPRqJ48RVU097Pv4iPvUONeXtaVSuxA==",
   "LastRefresh": "2024-02-23T08:28:17.6044838+00:00",
-  "Index": "SK8WN-VAVG"
+  "Index": "SK8WN-VAVG",
+  "AesEncrypted": true,
+  "AesIV": "J4YErb4HkIfL1lyZ7tgUZw=="
 }
