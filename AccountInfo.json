@@ -1,7 +1,9 @@
 {
   "AccountName": "hgrme16579",
-  "AccountPassword": "PUpupu2619",
-  "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5OTQ3NzIxMTY0NCIsICJhdWQiOiBbICJjbGllbnQiLCAid2ViIiwgInJlbmV3IiwgImRlcml2ZSIgXSwgImV4cCI6IDE3MTEyNzgxNzcsICJuYmYiOiAxNzAwMDM2MjEzLCAiaWF0IjogMTcwODY3NjIxMywgImp0aSI6ICIwRUVGXzIzRkVENzg5XzhGQjAzIiwgIm9hdCI6IDE3MDg2NzYyMTMsICJwZXIiOiAwLCAiaXBfc3ViamVjdCI6ICIxMy45MS42OC4xNjUiLCAiaXBfY29uZmlybWVyIjogIjEzLjkxLjY4LjE2NSIgfQ.uQUggL4ARDbmRwF_p7yRlOBNALgVEtrhF5fHhEjD-LwQttE9JLF8uP9DxEdxbfJZJShgWtpgKV3t5ovBm7zxAA",
+  "AccountPassword": "8NhTm56/Ma42AUwNSOZJ/Q==",
+  "RefreshToken": "qIuG3Q3DaFU9nLaRrxMKP6KaeKkcDbr+n6VHKgDrSwW+bAHQqYN8CWkdHBHDOK72gSF3ZtebOrhhZozwTs9wZy8nKxIk8MFUcSw1Rc/P+0ZuK0h3Lz8LnocqsFXjepnFJv+mIc3yvXzDMaoN9+nyM1B1xQ/ddIVTCyqaqmJk+A3Yn4GYxIp3vKJMxdjQxDJOcNykBzqhGj1ycdKMo+xmbowmL2QLt1ynZryr1IYyCHmi/ZoTEwuZzERsKwGENPqun9TP0b7r+xTVh4ZFU/AebU/bz1N5sAHop3+lsNnB3yHfE6Z1D0OPZbeLds2sDASqzLZmVO1fbT0ivehPrRqD1VQbpuhvUvomYsVVYj0LIKiLLr+tr3Exn1swYIZ301fCHkvn8nl67pRyDgu3rCex+QcXa9XzeCPeYJLxjpjjah9JnasZcMDoDt5YsFV/bhIP6BHi6SaU6mHKhaVr8TpAEzni+q1BCE4hcWriemDB2Np5C1kZm/aRqMea1d8CeuYOmyVInxwk/ruinrFm2u2eF0x/KR/nhw+mYYK7wrEoB6U2mYhfcHTr31UlSLw+o5ECSN2ErAx+WMq2NtDhuA2rFOm6yamRunReWtuCdwR8SpjnORxQWoa1n/U3dTslHJD2+ZlTm5gLdPUI31Nc89mtaQ==",
   "LastRefresh": "2024-02-23T08:16:54.1653883+00:00",
-  "Index": "SHZ24-WPXL"
+  "Index": "SHZ24-WPXL",
+  "AesEncrypted": true,
+  "AesIV": "HYWn0Cx0dveYHxTeoneggQ=="
 }
